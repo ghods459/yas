@@ -29,7 +29,6 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/search_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir" data-g-event="Product click" data-g-action="link">
@@ -42,7 +41,6 @@ Yas Virtual World
      </li>
      <li>
       <a href="http://www.yasse.ir/?url=webse" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/chrome_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=webse" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -60,8 +58,7 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=quransound.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/product/mobile-321.png" alt="" />
-      </a>
+     </a>
       <p>
        <a href="http://www.yasse.ir/?url=quransound.ir" data-g-event="Product click" data-g-action="link" target = _blank>
         Listen Quran
@@ -73,7 +70,6 @@ Yas Virtual World
      </li>
      <li>
       <a href="http://www.yasse.ir/?url=phone.quransound.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/product/mobile-321.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=phone.quransound.ir" data-g-event="Product click" data-g-action="link"  target = _blank>
@@ -91,7 +87,6 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=mobiles.yasse" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/product/mobile-32.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=mobiles.yasse" data-g-event="Product click" data-g-action="link"  target = _blank>
@@ -103,14 +98,12 @@ Yas Virtual World
       </p>
      </li>
     </ul>
-
     <h2>
      Shopping and Stores
     </h2>
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=yasstore.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/adsense_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasstore.ir" data-g-event="Product click" data-g-action="link"  target = _blank>
@@ -123,7 +116,6 @@ Yas Virtual World
      </li>
      <li>
       <a href="http://www.yasse.ir/?url=shop.yasstore.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/admob_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=shop.yasstore.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -137,7 +129,6 @@ Yas Virtual World
     <ul>
      <li>
       <a href="http://www.yasse.ir/?url=sabzgostar.yasstore.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/admob_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=sabzgostar.yasstore.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -147,10 +138,8 @@ Yas Virtual World
       <p>
        Shop your needs and receive it at your address.
      </li>
-
      <li>
       <a href="http://www.yasse.ir/?url=yasstore.dayanshop.com" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/admob_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasstore.dayanshop.com" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -165,7 +154,6 @@ Yas Virtual World
     <ul>
      <li>
       <a href="http://www.yasse.ir/?url=frotel.yasstore.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/admob_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=frotel.yasstore.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -183,7 +171,6 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=hostmain.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/adsense_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=hostmain.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -196,7 +183,6 @@ Yas Virtual World
      </li>
      <li>
       <a href="http://www.yasse.ir/?url=yashost.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/admob_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yashost.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -211,7 +197,6 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=hostgator.com" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/adsense_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=hostgator.com" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -229,7 +214,6 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=yasgame.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/adsense_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasgame.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -247,7 +231,6 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=tours.yasse.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/adsense_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=tours.yasse.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -265,7 +248,6 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=yasgate.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/adsense_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasgate.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -283,7 +265,6 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=yasclick.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/adsense_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasclick.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -296,7 +277,6 @@ Yas Virtual World
      </li>
      <li>
       <a href="http://www.yasse.ir/?url=yasads.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/admob_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasads.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -308,11 +288,9 @@ Yas Virtual World
       </p>
      </li>
     </ul>
-
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=gptonline.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/adsense_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=gptonline.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -325,8 +303,7 @@ Yas Virtual World
      </li>
      <li>
       <a href="http://www.yasse.ir/?url=surfonline.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/admob_32dp1.png" alt="" />
-      </a>
+       </a>
       <p>
        <a href="http://www.yasse.ir/?url=surfonline.ir" data-g-event="Product click" data-g-action="link" target = _blank>
         Surf Online
@@ -340,7 +317,6 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=yashit.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/adsense_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yashit.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -358,7 +334,6 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=yasebook.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/play_books_32dp.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasebook.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -371,7 +346,6 @@ Yas Virtual World
      </li>
      <li>
       <a href="http://www.yasse.ir/?url=yasimage.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/product/images-32.gif" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasimage.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -386,7 +360,6 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=yasdaily.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/news_32dp.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasdaily.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -399,7 +372,6 @@ Yas Virtual World
      </li>
      <li>
       <a href="http://www.yasse.ir/?url=tv.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/product/videos-321.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=tv.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -417,7 +389,6 @@ Yas Virtual World
     <ul>
      <li>
       <a href="http://www.yasse.ir/?url=yasapps.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/gmail_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasapps.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -435,7 +406,6 @@ Yas Virtual World
     <ul>
      <li>
       <a href="http://www.yasse.ir/?url=yasse.ir/docs/" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/docs_32dp.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasse.ir/docs/" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -448,7 +418,6 @@ Yas Virtual World
      </li>
      <li>
       <a href="http://www.yasse.ir/?url=yasse.ir/charts/" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/drawings_32dp.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasse.ir/charts/" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -463,7 +432,6 @@ Yas Virtual World
     <ul> 
      <li>
       <a href="http://www.yasse.ir/?url=yasse.ir/translate/" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/translate_32dp.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasse.ir/translate/" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -481,7 +449,6 @@ Yas Virtual World
     <ul>
      <li>
       <a href="http://www.yasse.ir/?url=yasshare.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/google_plus_32dp.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasshare.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -499,7 +466,6 @@ Yas Virtual World
     <ul>
      <li>
       <a href="http://www.yasse.ir/?url=yasweblog.com" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/blogger_32dp.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasweblog.com" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -510,10 +476,8 @@ Yas Virtual World
        Share your life online with a blog - it&#39;s quick, easy and free
       </p>
      </li>
-
      <li>
       <a href="http://www.yasse.ir/?url=yasweblog.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/blogger_32dp.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasweblog.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -531,7 +495,6 @@ Yas Virtual World
     <ul>    
      <li class="break">
       <a href="http://www.yasse.ir/?url=yasmail.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/groups_32dp1.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yasmail.ir" data-g-event="Product click" data-g-action="link" target = _blank>
@@ -549,7 +512,6 @@ Yas Virtual World
     <ul>
      <li class="break">
       <a href="http://www.yasse.ir/?url=yastools.ir" data-g-event="Product click" data-g-action="icon">
-       <img src="//www.google.com/images/icons/material/product/1x/developers_32dp.png" alt="" />
       </a>
       <p>
        <a href="http://www.yasse.ir/?url=yastools.ir" data-g-event="Product click" data-g-action="link" target = _blank>
